@@ -1,53 +1,49 @@
-胖东来
-于东来
+AI
+Machine Learning
+DeepLearning
+Pretraing
+Fine-tuning
+Transformer
+LLM
+Agent
+NLP
+!广告
+!培训
 
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+ARM
+光刻机
 
-比亚迪
-王传福
+计算机考研
+软件工程考研
+操作系统
+计算机组成原理
+!广告
+!培训
 
-大疆
-DJI
+出国留学
+移民
+码农
+招聘
+面试
+求职
+offer
+大环境
+!广告
+!培训
 
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
+算法
+代码
+java
+Python
+Typescript
+编程
 
 字节
-bytedance
-张一鸣
+阿里
+百度
 
 特斯拉
 马斯克
@@ -75,8 +71,14 @@ Anthropic
 
 iphone
 ipad
+Macbook
 mac
 ios
+!水果
+!价格
+
+AWS
+亚马逊
 
 ai
 !gai
@@ -92,16 +94,23 @@ ai
 美国
 日本
 韩国
+移民
+宜居
+!广告
+!培训
 
 芯片
 光刻机
 
+汽车
+二手车
+性价比
+
+
 科技
 
 核能
-
-水电站
-雅鲁藏布江
+智能制造
 
 新质生产力
 
