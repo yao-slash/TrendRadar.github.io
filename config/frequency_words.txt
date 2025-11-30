@@ -1,36 +1,20 @@
 AI
-Machine Learning
+MachineLearning
 DeepLearning
-Pretraing
-Fine-tuning
 Transformer
 LLM
-Agent
 NLP
 !广告
 !培训
 
-DeepSeek
-梁文锋
 
-ARM
-光刻机
-
-计算机考研
-软件工程考研
-操作系统
-计算机组成原理
+Pretraing
+Fine-tuning
+Agent
 !广告
 !培训
 
-出国留学
-移民
-码农
-招聘
-面试
-求职
-offer
-大环境
+大模型
 !广告
 !培训
 
@@ -39,23 +23,40 @@ offer
 java
 Python
 Typescript
-编程
+!广告
+!培训
+
+
+出国
+移民
+海外
++工作
+!广告
+!培训
+
+程序员
++求职
++招聘
++面试
++求职
++offer
+!广告
+!培训
+
 
 字节
 阿里
 百度
-
 特斯拉
-马斯克
+微软
+AMD
+ARM
++发
 
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
-
-AMD
 
 谷歌
 google
@@ -89,7 +90,7 @@ ai
 机器人
 
 国产
-中国
++科技
 
 美国
 日本
