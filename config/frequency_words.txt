@@ -4,6 +4,7 @@ DeepLearning
 Transformer
 LLM
 NLP
+人工智能
 !广告
 !培训
 
@@ -34,6 +35,17 @@ Typescript
 !广告
 !培训
 
+
+
+美国
+日本
+韩国
++工作
++市场
+!广告
+!培训
+
+
 程序员
 +求职
 +招聘
@@ -55,6 +67,7 @@ ARM
 
 微软
 Microsoft
+
 英伟达
 NVIDIA
 
@@ -62,6 +75,9 @@ NVIDIA
 google
 gemini
 deepmind
+
+AWS
+亚马逊
 
 chatgpt
 openai
@@ -75,40 +91,22 @@ ipad
 Macbook
 mac
 ios
++发
 !水果
 !价格
-
-AWS
-亚马逊
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
 机器人
 
 国产
-+科技
-
-美国
-日本
-韩国
-移民
-宜居
-!广告
-!培训
-
++技
 芯片
 光刻机
 
 汽车
 二手车
 性价比
-
-
-科技
 
 核能
 智能制造
